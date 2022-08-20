@@ -1,0 +1,2 @@
+dotnet tool install --global dotnet-ef --version 6.0.8
+dotnet tool update --global dotnet-ef --version 6.0.8
