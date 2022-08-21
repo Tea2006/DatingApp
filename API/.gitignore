@@ -2,4 +2,7 @@ obj
 bin
 appsettings.json
 *.db
+zip
+pdf
+
 
