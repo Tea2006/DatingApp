@@ -1,0 +1,8 @@
+shift + Alt + strelica dole  - Kopira red
+ctrl + shift + P  - otvara meni za pretragu
+ctrl + P  - otvara meni za pretragu u app
+ctrl + ` - otvara konzolu
+shift + Home - Pocetak reda
+shift + End- Kraj reda
+shift + Alt + A   - Blok komentar
+Ctrl + / - linija komentar

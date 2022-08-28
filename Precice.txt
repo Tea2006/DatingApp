@@ -1,0 +1,10 @@
+shift + Alt + strelica dole  - Kopira red
+ctrl + shift + P  - otvara meni za pretragu
+ctrl + P  - otvara meni za pretragu u app
+ctrl + ` - otvara konzolu
+shift + Home - Pocetak reda
+shift + End- Kraj reda
+
+
+() - Send data salje podatke
+[] Prima podatke

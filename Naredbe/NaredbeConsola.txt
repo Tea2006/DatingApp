@@ -1,2 +1,37 @@
 dotnet tool install --global dotnet-ef --version 6.0.8
 dotnet tool update --global dotnet-ef --version 6.0.8
+
+ng g s account --skip-tests
+ng g c nav --skip-tests
+
+dotnet new sln 
+dotnet new webapi -o API 
+dotnet sln -h
+dotnet sln add API/ 
+dotnet sln list 
+
+dotnet ef migrations add UserPasswordAdded
+dotnet ef database update
+dotnet ef migrations remove
+dotnet ef database drop 
+dotnet tool update --global dotnet-ef --version 6.0.8 
+dotnet tool install --global dotnet-ef --version 6.0.8
+code .
+dotnet dev-certs https --trust
+cd src/app 
+clear
+cd..
+dotnet run
+
+dotnet ef migrations add InitialCreate -o Data/Migrations 
+dotnet new gitignore
+node --version
+ng new client --strict false
+ng --version
+ng add ngx-bootstrap
+npm install font-awesome
+git commit -m "Initial Commit"
+git branch -M main
+git remote add origin https://github.com/Tea2006/DatingApp.git
+git push -u origin main
+ng serve
